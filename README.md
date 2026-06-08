@@ -1,5 +1,3 @@
-Mainly showcases my Unit Testing skills alongside my OOP Programming skills in Java
-
 # 🚲 Bicycle Applet (Java Graphics Project)
 
 ## Overview
